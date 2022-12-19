@@ -130,10 +130,10 @@ Note: to continue documentation as user guide.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Supplier best expiry table.
-- [ ] Supplier QOH view only.
-- [ ] Batch list view.
-- [ ] Changed batch number creation to handle multiple offers.
+- [x] Supplier best expiry table.
+- [x] Supplier QOH view only.
+- [x] Batch list view.
+- [x] Changed batch number creation to handle multiple offers.
 
 
 <!-- See the [open issues](https://github.com/azmi-maz/supplier-view-inventory-system/issues) for a full list of proposed features (and known issues). -->
